@@ -1,0 +1,42 @@
+{
+  "created": 1326853478,
+  "livemode": false,
+  "id": "evt_00000000000000",
+  "type": "product.created",
+  "object": "event",
+  "request": null,
+  "pending_webhooks": 1,
+  "api_version": "2019-11-05",
+  "data": {
+    "object": {
+      "id": "prod_00000000000000",
+      "object": "product",
+      "active": true,
+      "attributes": [
+
+      ],
+      "caption": null,
+      "created": 1570073380,
+      "deactivate_on": [
+
+      ],
+      "description": null,
+      "images": [
+
+      ],
+      "livemode": false,
+      "metadata": {
+        "im_roles": "guides5,role1,role2",
+        "im_product": "x"
+      },
+      "name": "ImpairMaster for AMA Guides 5",
+      "package_dimensions": null,
+      "shippable": null,
+      "statement_descriptor": null,
+      "type": "service",
+      "unit_label": null,
+      "updated": 1574882432,
+      "url": null
+    }
+  }
+}
